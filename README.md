@@ -1,5 +1,17 @@
 # MULTITHREADED-CHAT-APPLICATION
 
+#company - CODTECH IT SOLUTIONS
+
+#name - GULNAWAJ
+
+#intern id - CT04DG2684
+
+#domain - JAVA PROGRAMMING
+
+#duration - 4WEEKS
+
+#mentor - NEELA SANTOSH
+
 #DESCRIPTION 
 
 In this project, I have created a simple client-server chat application using Java Sockets and Multithreading.
