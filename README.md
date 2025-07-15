@@ -41,4 +41,6 @@ Each client can type exit to leave the chat.
 
 #OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/427589d8-f354-4358-a430-edb2f77de5a1" />
+
 
