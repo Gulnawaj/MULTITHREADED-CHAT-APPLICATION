@@ -40,6 +40,7 @@ So, if there are 3 clients connected, and any one client types a message, the ot
 Each client can type exit to leave the chat.
 
 #OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d0c6f4b6-c3e9-4483-b498-ff456dee1834" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/427589d8-f354-4358-a430-edb2f77de5a1" />
 
