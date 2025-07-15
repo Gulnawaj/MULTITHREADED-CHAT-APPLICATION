@@ -39,4 +39,6 @@ WriteThread — takes input from the user (using Scanner) and sends it to the se
 So, if there are 3 clients connected, and any one client types a message, the other two clients will immediately see that message on their screens.
 Each client can type exit to leave the chat.
 
+#OUTPUT
+
 
